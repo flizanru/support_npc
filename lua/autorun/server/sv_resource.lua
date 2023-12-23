@@ -1,0 +1,1 @@
+resource.AddSingleFile("materials/cp2077/npc/cp2077_npc_titlebg.png")
